@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Didodr 😁
+<center>
+ ## Bem-vindo(a) ao perfil de Didodr 😁
 
  <div>
    <a href="https://github.com/didodr">
@@ -22,3 +23,4 @@
   <a href = "mailto:dido.dr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 -->
+</center>
