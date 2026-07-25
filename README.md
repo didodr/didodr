@@ -12,6 +12,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-📊 **Estatísticas**  
-[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=didodr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--📊 **Estatísticas**  
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=didodr&show_icons=true&theme=dark) -->
 </center>
