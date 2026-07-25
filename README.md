@@ -1,26 +1,17 @@
 <center>
- ## Bem-vindo(a) ao perfil de Didodr 😁
+ ### 👋 Olá! Eu sou o [DidoDR]  
 
- <div>
-   <a href="https://github.com/didodr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=didodr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didodr&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-</div>
- 
-<br>
-<!-- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
--->
-<!--
-<div> 
-  <a href="https://www.youtube.com/@didodr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/didodr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/425433534870716417" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dido.dr@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
--->
+🚀 **Sobre mim**  
+- 🔭 Atualmente trabalhando em: [NADA DE IMPORTANTE]  
+- 🌱 Aprendendo: [C++, IoT, Pithon]  
+<!--- 📫 Como me encontrar: [LinkedIn] | [E-mail]  -->
+
+🛠️ **Tecnologias que uso**  
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+📊 **Estatísticas**  
+[![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=didodr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </center>
